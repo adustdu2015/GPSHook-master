@@ -37,3 +37,4 @@ findAndHookMethod("com.test.MainActivity", laparam.classLoader , "t" , String.cl
 
 
 );
+<image src="./pay.png">
